@@ -33,7 +33,7 @@ Make sure you have Node.js (v16 or higher) and npm or Yarn installed on your sys
 
 ### Clone the Repository
     
-    git clone https://github.com/yourusername/my-app.git
+    git clone https://github.com/pawie729/my-auth-todo-app.git
     cd my-app
 
 ### Install Dependencies
